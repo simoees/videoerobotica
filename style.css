@@ -1,7 +1,7 @@
 body {
   color: white;/*define a cor do texto para branco*/
  background: black;/*define a cor do fundo da pagina para preto*/
-margin: 0px;/*remove o espaço perto da margens externas do elemento para ficar proximo a borda, quanto maior os numeros mais vai para o centro*/
+margin: 10px;x;/*remove o espaço perto da margens externas do elemento para ficar proximo a borda, quanto maior os numeros mais vai para o centro*/
   font-family: "Chakra Petch", sans-serif;/*define a fonte do texto/alterar a fonte*/
   margin-bottom: 300;/*adiciona 100px de espaço para baixo do elemento*/
 
